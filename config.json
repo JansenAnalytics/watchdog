@@ -23,6 +23,12 @@
       "name": "Vuln Scanner",
       "log": "/home/ajans/projects/vuln-scanner/scanner.log",
       "max_silence_minutes": 10100
+    },
+    {
+      "id": "pr-monitor",
+      "name": "PR/CI Monitor",
+      "log": "/home/ajans/projects/pr-monitor/monitor.log",
+      "max_silence_minutes": 35
     }
   ],
   "processes": [
