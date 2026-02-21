@@ -32,7 +32,6 @@ const COOLDOWN_MS = 2 * 60 * 60 * 1000; // 2 hours
 
 function log(msg) {
   const line = `[${new Date().toISOString()}] ${msg}`;
-  console.log(line);
   fs.appendFileSync(LOG_FILE, line + '\n');
 }
 
