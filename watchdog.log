@@ -57,3 +57,113 @@
 [2026-02-21T15:00:01.792Z]   OK — no errors in last 60 min
 [2026-02-21T15:00:01.792Z] Done.
 [2026-02-21T15:00:01.792Z] Done.
+[2026-02-21T15:30:01.081Z] [cron_job] Web Monitor
+[2026-02-21T15:30:01.081Z] [cron_job] Web Monitor
+[2026-02-21T15:30:01.082Z]   OK — last ran 0 min ago
+[2026-02-21T15:30:01.082Z]   OK — last ran 0 min ago
+[2026-02-21T15:30:01.082Z] [cron_job] Stock Watcher (legacy)
+[2026-02-21T15:30:01.082Z] [cron_job] Stock Watcher (legacy)
+[2026-02-21T15:30:01.082Z]   [cooldown] Skipping alert for cron:stock-watcher (within 2h cooldown)
+[2026-02-21T15:30:01.082Z]   [cooldown] Skipping alert for cron:stock-watcher (within 2h cooldown)
+[2026-02-21T15:30:01.082Z] [process] Webhook Receiver
+[2026-02-21T15:30:01.082Z] [process] Webhook Receiver
+[2026-02-21T15:30:01.083Z]   OK — running
+[2026-02-21T15:30:01.083Z]   OK — running
+[2026-02-21T15:30:01.083Z] [disk] /
+[2026-02-21T15:30:01.083Z] [disk] /
+[2026-02-21T15:30:01.086Z]   Usage: 1% (alert above 85%)
+[2026-02-21T15:30:01.086Z]   Usage: 1% (alert above 85%)
+[2026-02-21T15:30:01.087Z] [log_errors] web-monitor-errors
+[2026-02-21T15:30:01.087Z] [log_errors] web-monitor-errors
+[2026-02-21T15:30:01.087Z]   OK — no errors in last 60 min
+[2026-02-21T15:30:01.087Z]   OK — no errors in last 60 min
+[2026-02-21T15:30:01.087Z] Done.
+[2026-02-21T15:30:01.087Z] Done.
+[2026-02-21T16:00:01.713Z] [cron_job] Web Monitor
+[2026-02-21T16:00:01.713Z] [cron_job] Web Monitor
+[2026-02-21T16:00:01.713Z]   OK — last ran 15 min ago
+[2026-02-21T16:00:01.713Z]   OK — last ran 15 min ago
+[2026-02-21T16:00:01.713Z] [cron_job] Stock Watcher (legacy)
+[2026-02-21T16:00:01.713Z] [cron_job] Stock Watcher (legacy)
+[2026-02-21T16:00:01.714Z]   [cooldown] Skipping alert for cron:stock-watcher (within 2h cooldown)
+[2026-02-21T16:00:01.714Z]   [cooldown] Skipping alert for cron:stock-watcher (within 2h cooldown)
+[2026-02-21T16:00:01.714Z] [process] Webhook Receiver
+[2026-02-21T16:00:01.714Z] [process] Webhook Receiver
+[2026-02-21T16:00:01.714Z]   OK — running
+[2026-02-21T16:00:01.714Z]   OK — running
+[2026-02-21T16:00:01.714Z] [disk] /
+[2026-02-21T16:00:01.714Z] [disk] /
+[2026-02-21T16:00:01.717Z]   Usage: 1% (alert above 85%)
+[2026-02-21T16:00:01.717Z]   Usage: 1% (alert above 85%)
+[2026-02-21T16:00:01.717Z] [log_errors] web-monitor-errors
+[2026-02-21T16:00:01.717Z] [log_errors] web-monitor-errors
+[2026-02-21T16:00:01.718Z]   OK — no errors in last 60 min
+[2026-02-21T16:00:01.718Z]   OK — no errors in last 60 min
+[2026-02-21T16:00:01.718Z] Done.
+[2026-02-21T16:00:01.718Z] Done.
+[2026-02-21T16:30:01.579Z] [cron_job] Web Monitor
+[2026-02-21T16:30:01.579Z] [cron_job] Web Monitor
+[2026-02-21T16:30:01.579Z]   OK — last ran 0 min ago
+[2026-02-21T16:30:01.579Z]   OK — last ran 0 min ago
+[2026-02-21T16:30:01.580Z] [cron_job] Stock Watcher (legacy)
+[2026-02-21T16:30:01.580Z] [cron_job] Stock Watcher (legacy)
+[2026-02-21T16:30:01.580Z]   [cooldown] Skipping alert for cron:stock-watcher (within 2h cooldown)
+[2026-02-21T16:30:01.580Z]   [cooldown] Skipping alert for cron:stock-watcher (within 2h cooldown)
+[2026-02-21T16:30:01.580Z] [process] Webhook Receiver
+[2026-02-21T16:30:01.580Z] [process] Webhook Receiver
+[2026-02-21T16:30:01.580Z]   OK — running
+[2026-02-21T16:30:01.580Z]   OK — running
+[2026-02-21T16:30:01.580Z] [disk] /
+[2026-02-21T16:30:01.580Z] [disk] /
+[2026-02-21T16:30:01.583Z]   Usage: 1% (alert above 85%)
+[2026-02-21T16:30:01.583Z]   Usage: 1% (alert above 85%)
+[2026-02-21T16:30:01.583Z] [log_errors] web-monitor-errors
+[2026-02-21T16:30:01.583Z] [log_errors] web-monitor-errors
+[2026-02-21T16:30:01.584Z]   OK — no errors in last 60 min
+[2026-02-21T16:30:01.584Z]   OK — no errors in last 60 min
+[2026-02-21T16:30:01.584Z] Done.
+[2026-02-21T16:30:01.584Z] Done.
+[2026-02-21T17:00:01.789Z] [cron_job] Web Monitor
+[2026-02-21T17:00:01.789Z] [cron_job] Web Monitor
+[2026-02-21T17:00:01.790Z]   OK — last ran 0 min ago
+[2026-02-21T17:00:01.790Z]   OK — last ran 0 min ago
+[2026-02-21T17:00:01.790Z] [cron_job] Stock Watcher (legacy)
+[2026-02-21T17:00:01.790Z] [cron_job] Stock Watcher (legacy)
+[2026-02-21T17:00:01.790Z]   🚨 ALERT: Cron job silent — Stock Watcher (legacy) hasn't run in 180 minutes (max: 20)
+[2026-02-21T17:00:01.790Z]   🚨 ALERT: Cron job silent — Stock Watcher (legacy) hasn't run in 180 minutes (max: 20)
+[2026-02-21T17:00:02.045Z]   ✅ Telegram alerted
+[2026-02-21T17:00:02.045Z]   ✅ Telegram alerted
+[2026-02-21T17:00:02.747Z]   ✅ ntfy alerted
+[2026-02-21T17:00:02.747Z]   ✅ ntfy alerted
+[2026-02-21T17:00:02.747Z] [process] Webhook Receiver
+[2026-02-21T17:00:02.747Z] [process] Webhook Receiver
+[2026-02-21T17:00:02.747Z]   OK — running
+[2026-02-21T17:00:02.747Z]   OK — running
+[2026-02-21T17:00:02.747Z] [disk] /
+[2026-02-21T17:00:02.747Z] [disk] /
+[2026-02-21T17:00:02.751Z]   Usage: 1% (alert above 85%)
+[2026-02-21T17:00:02.751Z]   Usage: 1% (alert above 85%)
+[2026-02-21T17:00:02.751Z] [log_errors] web-monitor-errors
+[2026-02-21T17:00:02.751Z] [log_errors] web-monitor-errors
+[2026-02-21T17:00:02.752Z]   OK — no errors in last 60 min
+[2026-02-21T17:00:02.752Z]   OK — no errors in last 60 min
+[2026-02-21T17:00:02.752Z] Done.
+[2026-02-21T17:00:02.752Z] Done.
+[2026-02-21T17:30:01.365Z] [cron_job] Web Monitor
+[2026-02-21T17:30:01.366Z]   OK — last ran 0 min ago
+[2026-02-21T17:30:01.366Z] [process] Webhook Receiver
+[2026-02-21T17:30:01.366Z]   OK — running
+[2026-02-21T17:30:01.366Z] [disk] /
+[2026-02-21T17:30:01.370Z]   Usage: 1% (alert above 85%)
+[2026-02-21T17:30:01.370Z] [log_errors] web-monitor-errors
+[2026-02-21T17:30:01.370Z]   OK — no errors in last 60 min
+[2026-02-21T17:30:01.371Z] Done.
+[2026-02-21T18:00:01.686Z] [cron_job] Web Monitor
+[2026-02-21T18:00:01.686Z]   OK — last ran 15 min ago
+[2026-02-21T18:00:01.686Z] [process] Webhook Receiver
+[2026-02-21T18:00:01.686Z]   OK — running
+[2026-02-21T18:00:01.686Z] [disk] /
+[2026-02-21T18:00:01.689Z]   Usage: 1% (alert above 85%)
+[2026-02-21T18:00:01.689Z] [log_errors] web-monitor-errors
+[2026-02-21T18:00:01.690Z]   OK — no errors in last 60 min
+[2026-02-21T18:00:01.690Z] Done.

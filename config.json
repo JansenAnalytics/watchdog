@@ -11,6 +11,12 @@
       "name": "Market Monitor",
       "log": "/home/ajans/projects/market-monitor/monitor.log",
       "max_silence_minutes": 35
+    },
+    {
+      "id": "rss-digest",
+      "name": "RSS Digest",
+      "log": "/home/ajans/projects/rss-digest/digest.log",
+      "max_silence_minutes": 1500
     }
   ],
   "processes": [
