@@ -1,0 +1,44 @@
+{
+  "cron_jobs": [
+    {
+      "id": "web-monitor",
+      "name": "Web Monitor",
+      "log": "/home/ajans/projects/web-monitor/monitor.log",
+      "max_silence_minutes": 20
+    },
+    {
+      "id": "stock-watcher",
+      "name": "Stock Watcher (legacy)",
+      "log": "/home/ajans/projects/stock-watcher/watcher.log",
+      "max_silence_minutes": 20
+    }
+  ],
+  "processes": [
+    {
+      "id": "webhook-receiver",
+      "name": "Webhook Receiver",
+      "pid_file": "/home/ajans/projects/webhook-receiver/webhook-receiver.pid"
+    }
+  ],
+  "disk": [
+    {
+      "path": "/",
+      "alert_above_percent": 85
+    }
+  ],
+  "log_errors": [
+    {
+      "id": "web-monitor-errors",
+      "log": "/home/ajans/projects/web-monitor/monitor.log",
+      "lookback_minutes": 60
+    }
+  ],
+  "http_checks": [],
+  "telegram": {
+    "chatId": "687053516"
+  },
+  "ntfy": {
+    "server": "https://ntfy.sh",
+    "topic": "aksel-watchdog-p4n8q"
+  }
+}

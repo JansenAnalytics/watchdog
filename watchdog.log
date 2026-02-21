@@ -1,0 +1,59 @@
+[2026-02-21T14:13:25.338Z] [cron_job] Web Monitor
+[2026-02-21T14:13:25.340Z]   OK — last ran 0 min ago
+[2026-02-21T14:13:25.340Z] [cron_job] Stock Watcher (legacy)
+[2026-02-21T14:13:25.340Z]   OK — last ran 13 min ago
+[2026-02-21T14:13:25.340Z] [process] Webhook Receiver
+[2026-02-21T14:13:25.340Z]   OK — running
+[2026-02-21T14:13:25.340Z] [disk] /
+[2026-02-21T14:13:25.347Z]   Usage: 1% (alert above 85%)
+[2026-02-21T14:13:25.348Z] [log_errors] web-monitor-errors
+[2026-02-21T14:13:25.348Z]   OK — no errors in last 60 min
+[2026-02-21T14:13:25.348Z] Done.
+[2026-02-21T14:30:01.175Z] [cron_job] Web Monitor
+[2026-02-21T14:30:01.175Z] [cron_job] Web Monitor
+[2026-02-21T14:30:01.176Z]   OK — last ran 15 min ago
+[2026-02-21T14:30:01.176Z]   OK — last ran 15 min ago
+[2026-02-21T14:30:01.176Z] [cron_job] Stock Watcher (legacy)
+[2026-02-21T14:30:01.176Z] [cron_job] Stock Watcher (legacy)
+[2026-02-21T14:30:01.176Z]   🚨 ALERT: Cron job silent — Stock Watcher (legacy) hasn't run in 30 minutes (max: 20)
+[2026-02-21T14:30:01.176Z]   🚨 ALERT: Cron job silent — Stock Watcher (legacy) hasn't run in 30 minutes (max: 20)
+[2026-02-21T14:30:01.369Z]   ✅ Telegram alerted
+[2026-02-21T14:30:01.369Z]   ✅ Telegram alerted
+[2026-02-21T14:30:01.753Z]   ✅ ntfy alerted
+[2026-02-21T14:30:01.753Z]   ✅ ntfy alerted
+[2026-02-21T14:30:01.753Z] [process] Webhook Receiver
+[2026-02-21T14:30:01.753Z] [process] Webhook Receiver
+[2026-02-21T14:30:01.753Z]   OK — running
+[2026-02-21T14:30:01.753Z]   OK — running
+[2026-02-21T14:30:01.753Z] [disk] /
+[2026-02-21T14:30:01.753Z] [disk] /
+[2026-02-21T14:30:01.757Z]   Usage: 1% (alert above 85%)
+[2026-02-21T14:30:01.757Z]   Usage: 1% (alert above 85%)
+[2026-02-21T14:30:01.757Z] [log_errors] web-monitor-errors
+[2026-02-21T14:30:01.757Z] [log_errors] web-monitor-errors
+[2026-02-21T14:30:01.757Z]   OK — no errors in last 60 min
+[2026-02-21T14:30:01.757Z]   OK — no errors in last 60 min
+[2026-02-21T14:30:01.758Z] Done.
+[2026-02-21T14:30:01.758Z] Done.
+[2026-02-21T15:00:01.785Z] [cron_job] Web Monitor
+[2026-02-21T15:00:01.785Z] [cron_job] Web Monitor
+[2026-02-21T15:00:01.786Z]   OK — last ran 0 min ago
+[2026-02-21T15:00:01.786Z]   OK — last ran 0 min ago
+[2026-02-21T15:00:01.786Z] [cron_job] Stock Watcher (legacy)
+[2026-02-21T15:00:01.786Z] [cron_job] Stock Watcher (legacy)
+[2026-02-21T15:00:01.786Z]   [cooldown] Skipping alert for cron:stock-watcher (within 2h cooldown)
+[2026-02-21T15:00:01.786Z]   [cooldown] Skipping alert for cron:stock-watcher (within 2h cooldown)
+[2026-02-21T15:00:01.786Z] [process] Webhook Receiver
+[2026-02-21T15:00:01.786Z] [process] Webhook Receiver
+[2026-02-21T15:00:01.786Z]   OK — running
+[2026-02-21T15:00:01.786Z]   OK — running
+[2026-02-21T15:00:01.787Z] [disk] /
+[2026-02-21T15:00:01.787Z] [disk] /
+[2026-02-21T15:00:01.791Z]   Usage: 1% (alert above 85%)
+[2026-02-21T15:00:01.791Z]   Usage: 1% (alert above 85%)
+[2026-02-21T15:00:01.791Z] [log_errors] web-monitor-errors
+[2026-02-21T15:00:01.791Z] [log_errors] web-monitor-errors
+[2026-02-21T15:00:01.792Z]   OK — no errors in last 60 min
+[2026-02-21T15:00:01.792Z]   OK — no errors in last 60 min
+[2026-02-21T15:00:01.792Z] Done.
+[2026-02-21T15:00:01.792Z] Done.
