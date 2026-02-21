@@ -17,6 +17,12 @@
       "name": "RSS Digest",
       "log": "/home/ajans/projects/rss-digest/digest.log",
       "max_silence_minutes": 1500
+    },
+    {
+      "id": "vuln-scanner",
+      "name": "Vuln Scanner",
+      "log": "/home/ajans/projects/vuln-scanner/scanner.log",
+      "max_silence_minutes": 10100
     }
   ],
   "processes": [
