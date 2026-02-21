@@ -5,6 +5,12 @@
       "name": "Web Monitor",
       "log": "/home/ajans/projects/web-monitor/monitor.log",
       "max_silence_minutes": 20
+    },
+    {
+      "id": "market-monitor",
+      "name": "Market Monitor",
+      "log": "/home/ajans/projects/market-monitor/monitor.log",
+      "max_silence_minutes": 35
     }
   ],
   "processes": [
