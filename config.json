@@ -5,12 +5,6 @@
       "name": "Web Monitor",
       "log": "/home/ajans/projects/web-monitor/monitor.log",
       "max_silence_minutes": 20
-    },
-    {
-      "id": "stock-watcher",
-      "name": "Stock Watcher (legacy)",
-      "log": "/home/ajans/projects/stock-watcher/watcher.log",
-      "max_silence_minutes": 20
     }
   ],
   "processes": [
